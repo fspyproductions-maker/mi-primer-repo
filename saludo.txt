@@ -1,3 +1,2 @@
 ﻿Version final despues de resolver el conflicto
 cambio hecho desde la web de github
-este commit es un error a propósito
